@@ -1,0 +1,1 @@
+kidsWithCandies=(c,e,m=Math.max(...c),r=[])=>{for(i=0;i<c.length;i++){jz=c[i];r.push(jz+e>=m);}return r}
